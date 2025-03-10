@@ -1,6 +1,6 @@
 # Intro
 
-This repository is a collection of drawings made for the class *CSCI 203 - Introduction to Computational Media*. Although this class was held in Python, all of these scripts have been adapted to Java for self containment & expansion of possible features. The conversion of these is documented in `conversion.txt`, although this only exists for my own personal reference & is not needed to run any files.
+This repository is a collection of drawings, mostly made for the class *CSCI 203 - Introduction to Computational Media*, although a few were made as personal projects. Although the class was held in Python, all of those scripts have been adapted to Java to be able to run as a standalone script.
 
 # Usage
 

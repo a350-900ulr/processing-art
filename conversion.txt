@@ -1,4 +1,6 @@
-Guide on how to convert code environment from processing to intellij because i cant memorize this
+Guide on how to convert from Python files to Java.
+
+The original CSCI 203 class was held in Python by running scripts directly in the Processing editor. All of the scripts from the class have been converted to be able to run standalone natively. Furthermore, additional features are only available natively. This only exists for my own personal reference & is not needed to run any files.
 
 1) paste code inside generated class header (move them imports ouuuut)
 2) add to top
@@ -6,7 +8,9 @@ Guide on how to convert code environment from processing to intellij because i c
 3) add to class header
 	extends PApplet
 4) add inside class
-	public static void main(String...a) { PApplet.main(Thread.currentThread().getStackTrace()[1].getClassName()); }
+	public static void main(String...a) {
+		PApplet.main(Thread.currentThread().getStackTrace()[1].getClassName());
+	}
 5) replace
 	void setup() {
    with
