@@ -1,7 +1,7 @@
 /* UNFINISHED
  * This was an idea to make a game to skew the perspective of a square until it
- * matched 4 random points, which should be possible but this game was also
- * going to test it.
+ * matched 4 random points using the arrow keys, which should be possible but
+ * this game was also going to test the idea.
  * 5/25/20
  *
  * TODO:
