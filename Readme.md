@@ -17,16 +17,16 @@ If running 3D files yields the error `Exception in thread "main" java.lang.NoCla
 
 `flatland`
 
-![flatland screenshot](/images/Flatland 2025-03-12 13-14-41.png)
+![flatland screenshot](</images/Flatland 2025-03-12 13-14-41.png>)
 
 `Boat`
 
-![boat screenshot](/images/Boat_2025-03-12_13-09-56.png)
+![boat screenshot](</images/Boat_2025-03-12_13-09-56.png>)
 
 `HauntedHouse`
 
-![haunted house screenshot](/images/Haunted House 2025-03-12 13-11-20.png)
+![haunted house screenshot](</images/Haunted House 2025-03-12 13-11-20.png>)
 
 `Space`
 
-![space screenshot](/images/Space 2025-03-12 13-12-18.png)
+![space screenshot](</images/Space 2025-03-12 13-12-18.png>)
